@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.AssemblyInfo.cs
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.exe
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.deps.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.runtimeconfig.json
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\refint\agenda_de_compromisso.dll
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.pdb
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.genruntimeconfig.cache
+C:\Users\User\Desktop\UTFPR 3° Período\Orientação a Objetos\trabalho 3\agenda_de_compromisso\obj\Debug\net9.0\ref\agenda_de_compromisso.dll
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.exe
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.deps.json
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.runtimeconfig.json
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.dll
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\bin\Debug\net9.0\agenda_de_compromisso.pdb
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.sourcelink.json
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.dll
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\refint\agenda_de_compromisso.dll
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.pdb
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\agenda_de_compromisso.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Desktop\POO\agenda_de_compromisso\obj\Debug\net9.0\ref\agenda_de_compromisso.dll
